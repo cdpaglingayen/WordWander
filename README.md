@@ -42,5 +42,4 @@ To get started with WordWander, follow these simple steps:
 2. Install the required dependencies using `npm install`.
 3. Start the application with `npm start`.
 
-Now, you're all set to explore, create, and share your literary adventures with WordWander!
 
