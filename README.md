@@ -1,26 +1,46 @@
-# Book Store MERN stack project
+# WordWander: Portal to Explore, Share, and Create Books with Full CRUD Functionality!
 
-## Lessons
+Welcome to WordWander, your gateway to a world of literature and creativity. This platform empowers you to explore, share, and create books, providing you with full CRUD (Create, Read, Update, Delete) functionality. Whether you're an avid reader, a budding author, or somewhere in between, WordWander offers a space for your literary adventures.
 
-- [x] Lesson 01: Create Node.js project from scratch
-- [x] Lesson 02: Create our first Http Route
-- [x] Lesson 03: Add MongoDB and mongoose to node js
-- [x] Lesson 04: Create Book model with mongoose
-- [x] Lesson 05: Save a new Book with mongoose
-- [x] Lesson 06: Get All Books with mongoose
-- [x] Lesson 07: Get One Book by id with mongoose
-- [x] Lesson 08: Update a Book with mongoose
-- [x] Lesson 09: Delete a book with mongoose
-- [x] Lesson 10: Refactor Node js with express router
-- [x] Lesson 11: CORS policy in Node js and Express js
-- [x] Lesson 12: Create React project, Vite, Tailwind CSS
-- [x] Lesson 13: SPA and Add react router dom
-- [x] Lesson 14: Show Books List in React
-- [x] Lesson 15: Show Book Details in React
-- [x] Lesson 16: Create Book in React
-- [x] Lesson 17: Edit Book in React
-- [x] Lesson 18: Delete Book in React
-- [x] Lesson 19: Show Books List as Card
-- [x] Lesson 20: Make Book Card a single component
-- [x] Lesson 21: Add Book Modal
-- [x] Lesson 22: Improve User Experience (UX) with beautiful alert
+## Features
+
+- **Create**: Craft your literary masterpiece with an easy-to-use book creation tool.
+- **Read**: Immerse yourself in a diverse library of books, written by authors from all around the world.
+- **Update**: Edit and refine your books with our user-friendly editor.
+- **Delete**: Remove books you no longer wish to keep or share.
+- **Explore**: Discover new stories and explore the vast world of literature.
+- **Share**: Share your creations with the WordWander community and beyond.
+
+## Screenshots
+
+### Card Read
+![Card Read](/images/card_read.png)
+
+### Card View
+![Card View](/images/card_view.png)
+
+### Create View
+![Create View](/images/create_view.png)
+
+### Delete Book
+![Delete Book](/images/delete_book.png)
+
+### Edit Book
+![Edit Book](/images/edit_book.png)
+
+### Show Book
+![Show Book](/images/show_book.png)
+
+### Table View
+![Table View](/images/table_view.png)
+
+## Getting Started
+
+To get started with WordWander, follow these simple steps:
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies using `npm install`.
+3. Start the application with `npm start`.
+
+Now, you're all set to explore, create, and share your literary adventures with WordWander!
+
