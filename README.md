@@ -14,25 +14,25 @@ Welcome to WordWander, your gateway to a world of literature and creativity. Thi
 ## Screenshots
 
 ### Card Read
-![Card Read](/images/card_read.png)
+![Card Read](https://github.com/cdpaglingayen/Book-Store-MERN/blob/073d7f94496da1e418e542efc8bcf926d1991073/images/card_read.PNG)
 
 ### Card View
-![Card View](/images/card_view.png)
+![Card View](https://github.com/cdpaglingayen/Book-Store-MERN/blob/073d7f94496da1e418e542efc8bcf926d1991073/images/card_view.PNG)
 
 ### Create View
-![Create View](/images/create_view.png)
+![Create View](https://github.com/cdpaglingayen/Book-Store-MERN/blob/073d7f94496da1e418e542efc8bcf926d1991073/images/create_book.PNG)
 
 ### Delete Book
-![Delete Book](/images/delete_book.png)
+![Delete Book](https://github.com/cdpaglingayen/Book-Store-MERN/blob/073d7f94496da1e418e542efc8bcf926d1991073/images/delete_book.PNG)
 
 ### Edit Book
-![Edit Book](/images/edit_book.png)
+![Edit Book](https://github.com/cdpaglingayen/Book-Store-MERN/blob/073d7f94496da1e418e542efc8bcf926d1991073/images/edit_book.PNG)
 
 ### Show Book
-![Show Book](/images/show_book.png)
+![Show Book](https://github.com/cdpaglingayen/Book-Store-MERN/blob/073d7f94496da1e418e542efc8bcf926d1991073/images/show_book.PNG)
 
 ### Table View
-![Table View](/images/table_view.png)
+![Table View](https://github.com/cdpaglingayen/Book-Store-MERN/blob/073d7f94496da1e418e542efc8bcf926d1991073/images/table_view.PNG)
 
 ## Getting Started
 
